@@ -41,7 +41,7 @@ from asknow import asknow_humidity_fc28, asknow_photoresistor
 
 host = "192.168.0.12"
 user = "diego"
-password = "soy un aguila"
+password = "None"
 database = "test"
 
 modname = "Exterior" # Indoor, Exterior

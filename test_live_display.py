@@ -49,7 +49,7 @@ def animate(i):
 
   host = "192.168.0.12"
   user = "diego"
-  password = "soy un aguila"
+  password = "None"
   database = "test"
 
   t1 = UTCDateTime(datetime.datetime.now()) - 60.*5

@@ -30,7 +30,7 @@ import matplotlib.animation as animation
 
 host = "192.168.43.36"
 user = "diego"
-password = "soy un aguila"
+password = "None"
 database = "test"
 
 
